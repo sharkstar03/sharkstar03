@@ -84,6 +84,4 @@ Herramientas y configuraciones para seguridad de redes, incluyendo configuracion
 </div>
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sharkstar03&icon=1&color=12" alt="Visitor Count" />
-</div>
+
